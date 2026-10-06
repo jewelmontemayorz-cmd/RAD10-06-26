@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+      Scanner scanner = new Scanner(System.in);
+      // DIAGNOSTIC ACTIVITY (DATA TYPES)
+      String name = Name;
+      int age = Age;
+      String adress = Adress;
+      float weight = Wieght;
+      float height = Height;
+
+      System.out.println("Your Name:" +name);
+      System.out.println("Your Age:" +age);
+      System.out.println("What is your Adress:" +adress);
+      System.out.println("Your Wieght:" +weight);
+      System.out.println("Your Height:" +height);
+
+    }
+}
